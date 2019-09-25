@@ -11,7 +11,7 @@
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-sap-teched-12",
+			"tag": "com-sap-teched-gauge-12",
 			"url": "https://sapteched2019ain369.github.io/AIN368_12/webcomponent.js",
 			"integrity": "",
 			"ignoreIntegrity" : true
