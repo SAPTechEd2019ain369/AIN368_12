@@ -44,10 +44,10 @@
             this._widgetWidth = bcRect.width;
             
             //Guide Lines
-            this._ringColorCode = 'black';
+/*             this._ringColorCode = 'black';
             this._guideOpacity = 0.75;
             this._ringThickness = 5;
-            this._bracketThickness = 5;
+            this._bracketThickness = 5; */
 
             if (this._widgetHeight < this._widgetWidth){
                 this._widgetWidth = this._widgetHeight;
