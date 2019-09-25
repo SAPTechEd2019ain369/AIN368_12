@@ -60,6 +60,15 @@
             this._widgetWidth = bcRect.width;
             this.redraw();
         }
+        set angleMax(value) {
+            //Empty the shadow dom
+            if (this._svgContainer){
+             this._svgContainer._groups[0][0].innerHTML = "";
+            }
+           
+            this._endAngleDeg = value;
+            this.redraw();
+        };
 
         redraw() {
             if (this._widgetHeight < this._widgetWidth){
