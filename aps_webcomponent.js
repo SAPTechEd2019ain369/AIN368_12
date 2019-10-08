@@ -40,8 +40,8 @@
            get angleMax() {
             return this._shadowRoot.getElementById("aps_angle").value;
            }
-           
+
 
     }
-customElements.define("com-sap-teched-gauge-solution-aps", GaugeAps);
+customElements.define("com-sap-teched-12-aps", GaugeAps);
 })();
