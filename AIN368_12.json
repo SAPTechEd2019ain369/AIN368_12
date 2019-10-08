@@ -16,6 +16,16 @@
 			"integrity": "",
 			"ignoreIntegrity" : true
 		}
+		,
+		{
+		 "kind": "styling",
+		 "tag": "com-sap-teched-01-aps",
+		 "url": "https://sapteched2019ain369.github.io/AIN368_01/aps_webcomponent.js",
+		 "properties": [
+		 ],
+		 "integrity": "",
+		 "ignoreIntegrity" : true
+		}
     ],
 	"properties": {
 		"angleMax": {
