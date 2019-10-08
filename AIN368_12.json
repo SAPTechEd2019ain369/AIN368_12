@@ -12,13 +12,13 @@
 		{
 			"kind": "main",
 			"tag": "com-sap-teched-gauge-solution-exe2",
-			"url": "https://sapteched2019ain369.github.io/AIN368_SOLUTION_EX2/webcomponent.js",
+			"url": "https://sapteched2019ain369.github.io/AIN368_12/webcomponent.js",
 			"integrity": "",
 			"ignoreIntegrity" : true
 		}
 		,
 		{
-		 "kind": "styling",
+		 	"kind": "styling",
 		 "tag": "com-sap-teched-01-aps",
 		 "url": "https://sapteched2019ain369.github.io/AIN368_12/aps_webcomponent.js",
 		 "integrity": "",
